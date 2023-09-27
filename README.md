@@ -1,5 +1,3 @@
-# setup
-
 code --install-extension tomoki1207.pdf
 code --install-extension ritwickdey.LiveServer
 code --install-extension VisualStudioExptTeam.vscodeintellicode
